@@ -18,5 +18,11 @@ Our goal is to apply in a facade using the white part as a light sun filter and 
 
 Heat gun is attached to ABB robot with a tool flange, the relay connected with the arduino board allow us to turn on and off this tool if we want to heat one part or not depending of the facade design 
 
+Using image sampler on GH, we can design a facade using an image based on the requirements of the facade we want (sunlight, views,etc). 
+Based on this graphic we can ¨draw¨over the plastic surface and define panels to compose the total facade.
+
+Using our GH script for the robot path, we include in the arduino using Robot plugin and connect the tool. During robot execution, we can control the heat time and the condition of turn on/off.
+This script allows us to be more precise to apply the heat over the surface, stopping when we need transparency.
+
 
 
