@@ -16,4 +16,7 @@ Using a PET sheet 1.2 mm, we explored about qualities of the material under heat
 We were surprised for the change of color and texture and we thought about how to use this characteristics for design.
 Our goal is to apply in a facade using the white part as a light sun filter and to allow views in other parts.
 
+Heat gun is attached to ABB robot with a tool flange, the relay connected with the arduino board allow us to turn on and off this tool if we want to heat one part or not depending of the facade design 
+
+
 
