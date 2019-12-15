@@ -1,6 +1,5 @@
-### Heat painter robot : how to paint with heat
-
-
+ 
+# Heat painter robot : how to paint with heat
 
 # Project description
 
@@ -11,7 +10,6 @@ As a tool we constructed a tool flange to support a heat gun and Arduino case.
 
 In grasshopper we used as plugin Robot with digital output to connect the path
 to Arduino.
-
 
 # Requeriments
 The software needed for this project was Arduino IDE, Rhino 6 and  Robot Plugin
