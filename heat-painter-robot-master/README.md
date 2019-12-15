@@ -1,6 +1,8 @@
-### Heat painter robot
-###Painter robot: how to paint with heat
-##Project description
+### Heat painter robot : how to paint with heat
+
+
+
+# Project description
 
  This project was constructed with Arduino, Grasshopper and Rhino.
 For the general robotic path we used Grasshopper and Rhino 6 to run the
@@ -10,11 +12,12 @@ As a tool we constructed a tool flange to support a heat gun and Arduino case.
 In grasshopper we used as plugin Robot with digital output to connect the path
 to Arduino.
 
-#Requirements
+
+# Requeriments
 The software needed for this project was Arduino IDE, Rhino 6 and  Robot Plugin
 Grasshopper .The OS was Windows 10.
 
-##Getting started
+# Getting started
 With Rhino 6 running in the OS Windows 10, we can open Grasshopper plugin.
 In the algorithm we defined the home position, the target, the type of movements
 the robots did and the time.
